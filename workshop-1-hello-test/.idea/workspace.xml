@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cbb2b40-da95-4c2e-b2c2-e4fc61b93147" name="Default Changelist" comment="" />
+    <list default="true" id="5cbb2b40-da95-4c2e-b2c2-e4fc61b93147" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HelloTest">
+  <component name="RunManager" selected="JUnit.GenerateIdServiceTest">
+    <configuration name="GenerateIdServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hello-test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GenerateIdServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hello-test" />
       <option name="PACKAGE_NAME" value="" />
@@ -58,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GenerateIdServiceTest" />
         <item itemvalue="JUnit.HelloTest" />
         <item itemvalue="JUnit.HelloTest.case01" />
       </list>
